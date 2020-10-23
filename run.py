@@ -1,4 +1,4 @@
-# -*- coding: UTF-8 -*-
+# -*- coding: UTF-8 -*-1
 
 from hostloc.hostloc import start
 
